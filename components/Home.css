@@ -1,0 +1,16 @@
+.image{
+    width:45rem;
+    height:22rem;
+  }
+  
+  .home{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-content:center;
+    /* background-color:red; */
+  }
+
+  h1 {
+    margin: 0;
+  }

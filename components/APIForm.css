@@ -1,0 +1,22 @@
+.im{
+    height:20rem;
+  }
+
+.buttons {
+    background-color: #5f5b5b;
+}
+
+.buttons button {
+  background-color: white; /* Set the button background color to white */
+  /* Add other button styles as needed */
+  color: black;
+  font-weight: bold;
+}
+
+/* .APIForm button {
+    background-color: white
+}
+
+.APIForm .group {
+    background-color: white;
+} */
